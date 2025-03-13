@@ -1,0 +1,14 @@
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\bin\Debug\net8.0\prak1_.exe
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\bin\Debug\net8.0\prak1_.deps.json
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\bin\Debug\net8.0\prak1_.runtimeconfig.json
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\bin\Debug\net8.0\prak1_.dll
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\bin\Debug\net8.0\prak1_.pdb
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.GeneratedMSBuildEditorConfig.editorconfig
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.AssemblyInfoInputs.cache
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.AssemblyInfo.cs
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.csproj.CoreCompileInputs.cache
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.dll
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\refint\prak1_.dll
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.pdb
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\prak1_.genruntimeconfig.cache
+D:\MPT\C# ОАиП\Проекты\prak1_\prak1_\obj\Debug\net8.0\ref\prak1_.dll
